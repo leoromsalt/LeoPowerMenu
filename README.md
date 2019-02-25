@@ -6,3 +6,5 @@
 
 
 This is Leo write power menu can replace the power menu in Samsung oneUI. We will open the language part. I hope everyone can help us to correct the language error. Of course you can also add your local language.
+
+![](http://os.leorom.cc/img/rom/Leopowermenu.jpg)
